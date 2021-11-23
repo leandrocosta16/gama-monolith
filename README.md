@@ -9,4 +9,4 @@ This version of the application was developed with Java and Spring Boot version 
 
 ## Used Architecture
 
-![archietcture overview](https://raw.githubusercontent.com/leandrocosta16/gama-monolith/main/imgs/mono-blocks.png | width=100)
+<img src="https://raw.githubusercontent.com/leandrocosta16/gama-monolith/main/imgs/mono-blocks.png" width="500" />
