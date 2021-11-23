@@ -9,4 +9,4 @@ This version of the application was developed with Java and Spring Boot version 
 
 ## Used Architecture
 
-![archietcture overview](https://raw.githubusercontent.com/leandrocosta16/gama-microservices/main/imgs/arch-overview.png)
+![archietcture overview](https://raw.githubusercontent.com/leandrocosta16/gama-monolith/main/imgs/arch-overview.png)
